@@ -3275,7 +3275,7 @@ input, select, textarea {
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background: #ABCCC3;
+			background: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/new_bg_1.jpeg");
 			content: '';
 			display: block;
 			height: 100%;
