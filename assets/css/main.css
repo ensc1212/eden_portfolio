@@ -186,6 +186,14 @@ input, select, textarea {
 		font-size: 0.6rem;
 	}
 
+	p2 {
+		text-align: center;
+		margin: 0 0 2rem 0;
+		font-size: 1rem;
+		font-style: italic;
+		font-family: "Merriweather", Georgia, serif;
+	}
+
 	h1, h2, h3, h4, h5, h6 {
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
 		font-weight: 900;
