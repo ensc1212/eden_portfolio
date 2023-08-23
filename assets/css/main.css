@@ -2938,6 +2938,7 @@ input, select, textarea {
 
 		header > p {
 			font-style: italic;
+			text-align: center;
 		}
 
 		header > h1 + p {
@@ -3940,7 +3941,6 @@ input, select, textarea {
 
 				#main > .posts > article .image {
 					max-width: 25rem;
-					margin-top: -10rem;
 					margin-left: auto;
 					margin-right: auto;
 				}
