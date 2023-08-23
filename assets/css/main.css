@@ -3940,6 +3940,7 @@ input, select, textarea {
 
 				#main > .posts > article .image {
 					max-width: 25rem;
+					margin-top: -10rem;
 					margin-left: auto;
 					margin-right: auto;
 				}
